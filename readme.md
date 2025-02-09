@@ -2,7 +2,7 @@
 
 ##ACCESS TO DATASETS I USED IS IN THE DATA FOLDER - Manually load them into your computer
 
-The data sets can be accessed through the websites referenced, however, to access the exact data, use the datasets attached in the zip file. 
+The data sets can be accessed through the websites referenced. 
 
 All plots and images are saved through VSCode -> tested the code on R Studio and some of the code may output different graphs as in the coursework, but should appear the same as in submission when the code is run on VSCode and saved onto computer. I've added all the plot pngs into the png folder.
 
